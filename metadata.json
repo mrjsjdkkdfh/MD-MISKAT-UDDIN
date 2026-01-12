@@ -1,0 +1,5 @@
+{
+  "name": "DroidBrowser Emulator",
+  "description": "A high-fidelity Android-style web browser simulator built with React and Tailwind, featuring smart search, progress bars, and history management.",
+  "requestFramePermissions": []
+}
